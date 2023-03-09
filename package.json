@@ -1,0 +1,27 @@
+{
+  "name": "random-str-msg-et",
+  "version": "1.0.0",
+  "description": "Random String Messages by Edgar Tipanguano",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Edgartcc/random-str-msg-et.git"
+  },
+  "keywords": [],
+  "author": "Edgar Tipanguano <edgar.tipanguano@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Edgartcc/random-str-msg-et/issues"
+  },
+  "homepage": "https://github.com/Edgartcc/random-str-msg-et#readme",
+  "bin": {
+    "random-str-msg-et": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
