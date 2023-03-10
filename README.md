@@ -4,13 +4,13 @@ Random String Messages by Edgar Tipanguano
 ## Install
 
 ```npm
-npm install -g random-str-msg
+npm install -g random-str-msg-et
 ```
 
 # Usage
 
 ```bash
- random-str-msg
+ random-str-msg-et
 ```
 
 # Contributing
